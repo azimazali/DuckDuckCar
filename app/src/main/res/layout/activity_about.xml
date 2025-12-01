@@ -93,7 +93,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:autoLink="web"
-        android:text="https://github.com/"
+        android:text="https://github.com/azimazali/DuckDuckCar"
         android:textColor="#2196F3"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
